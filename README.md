@@ -1,25 +1,11 @@
 
 ## Hey 👋, I'm [Thomas B](https://github.com/Korben85/)
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://USERNAME.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/USERNAME)
--->
-### Nice to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Korben85.Korben85&style=flat-square&color=0088cc)
 
-<!--
-Add smth about me...
--->
+### Nice to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Korben85.Korben85&style=flat-square&color=0088cc)
 
 ### What am I doing:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Javascript, TypeScript and some other things
-
-<!--
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech 
--->
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"></code>
@@ -75,25 +61,3 @@ Add smth about me...
   </table>
   <br />
 </details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-<!--
-**Korben85/Korben85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
