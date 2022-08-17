@@ -1,7 +1,9 @@
 
 ## Hey 👋, I'm [Thomas B](https://github.com/Korben85/)
 
-### Nice to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Korben85.Korben85&style=flat-square&color=0088cc)
+### Nice to see you here! &nbsp;
+
+![](https://visitor-badge.glitch.me/badge?page_id=Korben85.Korben85&style=flat-square&color=0088cc)
 
 ### What am I doing:
 
@@ -22,15 +24,15 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Korben85&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korben85&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Korben85&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korben85&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Korben85&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Korben85&hide_border=true&theme=dark" />
 </details>
 
 <details>
